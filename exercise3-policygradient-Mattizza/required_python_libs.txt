@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+pygame
+pyglet==1.5.27
+setuptools==65.5.0
+wheel<0.40.0
+gym==0.21.0
+# torch==2.1.0+cpu install this via pip install torch==2.1.0 --extra-index-url https://download.pytorch.org/whl/cpu
+stable-baselines3==1.6.2
