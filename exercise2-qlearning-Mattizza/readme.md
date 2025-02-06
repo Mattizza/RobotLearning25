@@ -1,5 +1,4 @@
-# Exercise 2
-Exercise 2 - Q-learning for cartpole.
+# Exercise 2 - Q-learning for cartpole.
 
 See assignment document for instructions.
 
